@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/alfonso/Descargas/serverDrupal/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/alfonso/Descargas/serverDrupal/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alfonso/Descargas/serverDrupal/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/alfonso/Descargas/serverDrupal/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

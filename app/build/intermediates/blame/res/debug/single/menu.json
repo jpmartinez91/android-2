@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/alfonso/Descargas/serverDrupal/app/build/intermediates/res/merged/debug/menu/display_message.xml",
+        "source": "/home/alfonso/Descargas/serverDrupal/app/src/main/res/menu/display_message.xml"
+    },
+    {
+        "merged": "/home/alfonso/Descargas/serverDrupal/app/build/intermediates/res/merged/debug/menu/add_article.xml",
+        "source": "/home/alfonso/Descargas/serverDrupal/app/src/main/res/menu/add_article.xml"
+    },
+    {
+        "merged": "/home/alfonso/Descargas/serverDrupal/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/home/alfonso/Descargas/serverDrupal/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/home/alfonso/Descargas/serverDrupal/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/alfonso/Descargas/serverDrupal/app/src/main/res/menu/main.xml"
+    }
+]

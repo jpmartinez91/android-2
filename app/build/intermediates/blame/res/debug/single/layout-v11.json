@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/alfonso/Descargas/serverDrupal/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/alfonso/.android/build-cache/408d0f46c525ab290923ec3bbbb02e5d5e8e5146/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/alfonso/Descargas/serverDrupal/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/alfonso/.android/build-cache/408d0f46c525ab290923ec3bbbb02e5d5e8e5146/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/alfonso/Descargas/serverDrupal/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/alfonso/.android/build-cache/408d0f46c525ab290923ec3bbbb02e5d5e8e5146/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/alfonso/Descargas/serverDrupal/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/alfonso/.android/build-cache/408d0f46c525ab290923ec3bbbb02e5d5e8e5146/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/alfonso/Descargas/serverDrupal/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/alfonso/.android/build-cache/408d0f46c525ab290923ec3bbbb02e5d5e8e5146/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/alfonso/Descargas/serverDrupal/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/alfonso/.android/build-cache/408d0f46c525ab290923ec3bbbb02e5d5e8e5146/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]

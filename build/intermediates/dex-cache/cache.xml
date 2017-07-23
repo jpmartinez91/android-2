@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/alfonso/Descargas/serverDrupal/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/alfonso/Descargas/serverDrupal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b95608f12ad83482f17a300a9b8824bc30c055d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfonso/Descargas/serverDrupal/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ac731e84e4c586b9eaf200dbb8da8b60320dbadc">
+        <dex dex="/home/alfonso/Descargas/serverDrupal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_19fc7e4e33817c2bd1142811c9c02a2f091a395f/classes.dex" />
+    </item>
+
+</items>

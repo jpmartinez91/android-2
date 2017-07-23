@@ -1,0 +1,7 @@
+#Thu Jul 20 12:48:48 ECT 2017
+base.0=/home/alfonso/Descargas/serverDrupal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_19fc7e4e33817c2bd1142811c9c02a2f091a395f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/alfonso/Descargas/serverDrupal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b95608f12ad83482f17a300a9b8824bc30c055d/classes.dex
+base.1=/home/alfonso/Descargas/serverDrupal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b95608f12ad83482f17a300a9b8824bc30c055d
+file.0=/home/alfonso/Descargas/serverDrupal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_19fc7e4e33817c2bd1142811c9c02a2f091a395f/classes.dex
